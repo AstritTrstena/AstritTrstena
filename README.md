@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **HTML , CSS ,SASS**
+- 💬 Ask me about **HTML , CSS ,SASS ,BOOTSTRAP ,JAVASCRIPT ,PHP**
 
 - 📫 How to reach me **astrit.trstenaa@gmail.com**
 
